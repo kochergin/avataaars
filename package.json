@@ -29,7 +29,7 @@
   "scripts": {
     "start": "lodash start",
     "build": "lodash build"
-  }
+  },
   "importSort": {
     ".js, .jsx, .es6, .es": {
       "parser": "babylon",
