@@ -26,6 +26,10 @@
     "lodash": ">=4.17.11",
     "prop-types": "^15.6.0"
   },
+  "scripts": {
+    "start": "lodash start",
+    "build": "lodash build"
+  }
   "importSort": {
     ".js, .jsx, .es6, .es": {
       "parser": "babylon",
